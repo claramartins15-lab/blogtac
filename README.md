@@ -1,3 +1,4 @@
+<img width="956" height="956" alt="imagem-maquina" src="https://github.com/user-attachments/assets/644573ec-d66b-468e-93f3-4a5282475287" />
 <img width="956" height="956" alt="imagem-webcam" src="https://github.com/user-attachments/assets/f89d8ce0-cde4-4a0a-b73d-a352a2df41cc" />
 <img width="956" height="956" alt="imagem-mouse" src="https://github.com/user-attachments/assets/60fa6bad-a942-458f-af6e-c30e2658a1a1" />
 <img width="956" height="956" alt="imagem-dados" src="https://github.com/user-attachments/assets/fc4300f9-e4b3-480b-a379-b0dfdf5edb5f" />
